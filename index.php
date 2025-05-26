@@ -16,7 +16,7 @@ else {
 }
 */
 
-$text =" hello world !";
+$text =" black horse";
 $output = strpos( $text , 'a' );
 if ($output !== false ){
     echo "the char a is exist in ($text)";
